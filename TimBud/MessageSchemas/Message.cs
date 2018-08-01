@@ -1,0 +1,6 @@
+﻿namespace MessageSchemas
+{
+    class Message
+    {
+    }
+}
